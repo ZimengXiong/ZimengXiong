@@ -1,10 +1,13 @@
 # Zimeng Xiong
 
-I am a creative person who writes ok software and builds great hardware.
+I am a creative person who contributes alright software and builds great hardware.
 
 5 years experience designing, modding, & programming 3D printers and motion platforms.
 
-Interest in FOSS, embedded systems, ASICs, linux, security research, mircoelectronics, photography, and architecture with experience in CAD, CAM, command line tools, MCP tooling, PCB Design, VCS, Arduino&ESP, trinamic driver tuning, reverse engineering and patching, robotics, rust/cpp/py.
+Interest in embedded systems, ASICs, linux, security research, mircoelectronics, photography, and architecture with experience in CAD, CAM, command line tools, MCP tooling, PCB Design, VCS, Arduino&ESP, trinamic driver tuning, reverse engineering and patching, robotics, rust/cpp/py.
+
+#### My desktop
+<img width="1710" alt="451563963-03e26124-b95b-4862-accc-458bcb42ec36" src="https://github.com/user-attachments/assets/e0fbaf96-d868-4a23-bf12-785509349114" />
 
 #### Self Designed, Mostly Printed CNC Router (WIP)
 ![image](https://github.com/user-attachments/assets/75c86956-92a8-42f7-a91e-db0a7a62a3b7)
