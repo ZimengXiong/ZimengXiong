@@ -1,6 +1,6 @@
 # Zimeng Xiong
 
-I am a creative person who contributes alright software and builds great hardware.
+I am a creative person who contributes some software and builds great hardware.
 
 5 years experience designing, modding, & programming 3D printers and motion platforms.
 
