@@ -4,7 +4,7 @@ I am a creative person who writes ok software and builds great hardware.
 
 5 years experience designing, modding, & programming 3D printers and motion platforms.
 
-Interest in FOSS, embedded systems, ASICs, linux, security research, mircoelectronics, and architecture with experience in CAD, CAM, command line tools, PCB Design, VCS, Arduino&ESP, trinamic driver tuning, reverse engineering and patching, robotics.
+Interest in FOSS, embedded systems, ASICs, linux, security research, mircoelectronics, and architecture with experience in CAD, CAM, command line tools, MCP tooling, PCB Design, VCS, Arduino&ESP, trinamic driver tuning, reverse engineering and patching, robotics, rust/cpp/py.
 
 #### Self Designed, Mostly Printed CNC Router (WIP)
 ![image](https://github.com/user-attachments/assets/75c86956-92a8-42f7-a91e-db0a7a62a3b7)
