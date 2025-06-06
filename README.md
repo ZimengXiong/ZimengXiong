@@ -4,14 +4,15 @@ I am a creative person who writes ok software and builds great hardware.
 
 5 years experience designing, modding, & programming 3D printers and motion platforms.
 
-Interest in FOSS, embedded systems, ASICs, linux, security research, mircoelectronics, and architecture with experience in CAD, CAM, command line tools, MCP tooling, PCB Design, VCS, Arduino&ESP, trinamic driver tuning, reverse engineering and patching, robotics, rust/cpp/py.
+Interest in FOSS, embedded systems, ASICs, linux, security research, mircoelectronics, photography, and architecture with experience in CAD, CAM, command line tools, MCP tooling, PCB Design, VCS, Arduino&ESP, trinamic driver tuning, reverse engineering and patching, robotics, rust/cpp/py.
 
 #### Self Designed, Mostly Printed CNC Router (WIP)
 ![image](https://github.com/user-attachments/assets/75c86956-92a8-42f7-a91e-db0a7a62a3b7)
 
-#### Self Sourced VZ235 (2023est) & V0.2 (2024est)
-![image](https://github.com/user-attachments/assets/4151670b-d1ee-438f-812b-acccd3026548)
+#### V0.2 (2024est) and Self Sourced VZ235 (2023est)
+![image](https://github.com/user-attachments/assets/f3f116e1-bd18-464b-a182-3323219606ce)
 ![image](https://github.com/user-attachments/assets/4b7abaad-ef11-41d5-808f-e3c34a31d8cb)
+![image](https://github.com/user-attachments/assets/4151670b-d1ee-438f-812b-acccd3026548)
 
 #### V0.1, Self Sourced in Shenzhen (2023est)
 ![image](https://github.com/user-attachments/assets/9dbf2171-9d58-4927-a0a8-69ad21008f4f)
