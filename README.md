@@ -1,7 +1,5 @@
 # Zimeng Xiong
 
-I am a creative person who contributes some software and builds great hardware.
-
 5 years experience designing, modding, & programming 3D printers and motion platforms.
 
 Interest in embedded systems, ASICs, linux, security research, mircoelectronics, photography, and architecture with experience in CAD, CAM, command line tools, MCP tooling, PCB Design, VCS, Arduino&ESP, trinamic driver tuning, reverse engineering and patching, robotics, klipper, Latex, Markdown, YOLOv2, TFLite, Raspberry Pi, vim, rust/cpp/py.
