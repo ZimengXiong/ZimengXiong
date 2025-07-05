@@ -8,7 +8,7 @@ Interest in embedded systems, ASICs, linux, security research, mircoelectronics,
 <img width="1710" alt="451563963-03e26124-b95b-4862-accc-458bcb42ec36" src="https://github.com/user-attachments/assets/e0fbaf96-d868-4a23-bf12-785509349114" />
 
 #### Self Designed, Mostly Printed CNC Router (WIP)
-![4FDB5D70-3FEA-4178-839F-BCB026AB826C](https://github.com/user-attachments/assets/0b630c2f-15f0-4321-bd8c-21ce2f266d7c)
+![B969258F-0DFA-42F6-8659-08830B679580_1_105_c](https://github.com/user-attachments/assets/6dcae452-4a55-4d18-8e1a-9b4135ca65e4)
 
 #### V0.2 (2024est) and Self Sourced VZ235 (2023est)
 ![image](https://github.com/user-attachments/assets/f3f116e1-bd18-464b-a182-3323219606ce)
