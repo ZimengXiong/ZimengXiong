@@ -1,5 +1,7 @@
 # Zimeng Xiong
 
+I like to build things that move 🙂
+
 5 years experience designing, modding, & programming 3D printers and motion platforms.
 
 Interested in embedded systems, Open Source VLSI&ASICs, Linux, security research, microelectronics, photography, and architecture. Experience with CAD/CAM, command-line tools, MCP tooling, PCB design, VCS, ESP/LPC/STM32 microcontrollers, Trinamic driver tuning, decomp + patching, robotics, Klipper, YOLOv2, TFLite, and Raspberry Pi. Comfortable with vim, Rust, C++, Python, Swift, LaTeX, Markdown, and Kotlin.
