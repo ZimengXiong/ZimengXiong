@@ -4,7 +4,7 @@ I like to build things that move 🙂
 
 5 years experience designing, modding, & programming 3D printers and motion platforms.
 
-Interested in embedded systems, Open Source VLSI&ASICs, Linux, security research, microelectronics, photography, and architecture. Experience with CAD/CAM, Vitis HLS/Vivado, command-line tools, MCP tooling, PCB design, VCS, ESP/LPC/STM32 microcontrollers, Trinamic driver tuning, decomp + patching, robotics, Klipper, YOLOv2, PyTorch, NumPy, CNN, classical xentropy loss neural nets, TFLite, and Raspberry Pi. Comfortable with vim, Rust, C++, Python, Swift, LaTeX, Markdown, and Kotlin.
+Interested in embedded systems, VLSI&ASICs, Linux, security research, microelectronics, photography, and architecture. Experience with CAD/CAM, Vitis HLS/Vivado, command-line tools, MCP tooling, PCB design, VCS, ESP/LPC/STM32 microcontrollers, Trinamic driver tuning, decomp + patching, robotics, Klipper, YOLOv2, PyTorch, NumPy, CNN, classical xentropy loss neural nets, TFLite, and Raspberry Pi. Comfortable with vim, Rust, C++, Python, Swift, LaTeX, Markdown, and Kotlin.
 
 #### My desktop
 <img width="1710" alt="451563963-03e26124-b95b-4862-accc-458bcb42ec36" src="https://github.com/user-attachments/assets/e0fbaf96-d868-4a23-bf12-785509349114" />
