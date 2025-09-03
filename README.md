@@ -1,5 +1,7 @@
 # Zimeng Xiong
 
+[Resume](https://github.com/ZimengXiong/ZimengXiong/blob/main/Resume.pdf)
+
 I like to build things that move 🙂
 
 5 years experience designing, modding, & programming 3D printers and motion platforms.
