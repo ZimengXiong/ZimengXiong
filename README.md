@@ -2,7 +2,7 @@
 
 I like to build things that move 🙂
 
-7+ years experience designing & programming 3D printers, motion platforms, IK, and hardware controllers!
+7+ years experience designing & programming 3D printers, motion platforms, IK, and hardware controllers! Web dev/ML on the side.
 
 #### My desktop
 <img width="1710" alt="451563963-03e26124-b95b-4862-accc-458bcb42ec36" src="https://github.com/user-attachments/assets/e0fbaf96-d868-4a23-bf12-785509349114" />
