@@ -5,7 +5,7 @@ I like to build things that move 🙂
 7+ years experience designing & programming 3D printers, motion platforms, IK, and hardware controllers! Web dev/ML on the side.
 
 #### My desktop
-![Uploading image.png…]()
+<img width="4096" height="2376" alt="file-3bd864038badb3450235277b66c84ba2" src="https://github.com/user-attachments/assets/6f30b3ff-53aa-4bdc-81bd-b8243504436e" />
 
 
 #### Self Designed, Mostly Printed CNC Router (WIP)
