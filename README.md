@@ -34,8 +34,7 @@ some cool highlights
 5. because it's built on web standards, things behave normally instead of on the (legendary, but really it's time to retire from) `wxWidgets` GUI framework. you know how copy pasting and even things like text selection don't work consistently? and how menus lag to open? yeah, that's all fixed now it's all the oh so beautiful web. i ❤️ web standards. and yes don't come at me it's built with electron (go look at webkit (safari) graphics performance and then come tell me you wouldn't do the same)
 
 <p>
-  <a href="image-1.png"><img src="image-1.png" width="80%" align="left" alt="PancakeSlicer desktop comparison of planar and non-planar slicing"></a><a href="image-23.png"><img src="image-23.png" width="20%" align="left" alt="PancakeSlicer running on a phone"></a>
-  <br clear="all">
+  <a href="image-1.png"><img src="image-1.png" width="78%" align="top" alt="PancakeSlicer desktop comparison of planar and non-planar slicing"></a> <a href="image-23.png"><img src="image-23.png" width="20%" align="top" alt="PancakeSlicer running on a phone"></a>
 </p>
 
 (in the main screenshot: planar slicing on the left, non planar on the right, you can see the difference in mean surface error)
@@ -73,9 +72,10 @@ self explanatory, but:
 Some printers and one CNC I have designed/assembled & built over the years.
 
 <p align="center">
-  <a href="image-18.png"><img src="image-18.png" width="35%" alt="Build photo 1"></a>
-  <a href="image-14.png"><img src="image-14.png" width="31%" alt="Build photo 2"></a>
-  <a href="image-16.png"><img src="image-16.png" width="31%" alt="Build photo 3"></a>
+  <a href="image-18.png"><img src="image-18.png" width="26%" alt="Build photo 1"></a>
+  <a href="image-24.png"><img src="image-24.png" width="23%" alt="CNC carving a Totoro design"></a>
+  <a href="image-14.png"><img src="image-14.png" width="23%" alt="Build photo 2"></a>
+  <a href="image-16.png"><img src="image-16.png" width="23%" alt="Build photo 3"></a>
 </p>
 <p align="center">
   <a href="image-17.png"><img src="image-17.png" width="24%" alt="Build photo 4"></a>
