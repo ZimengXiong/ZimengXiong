@@ -72,11 +72,15 @@ self explanatory, but:
 Some printers and one CNC I have designed/assembled & built over the years.
 
 <p>
-  <a href="image-18.png"><img src="image-18.png" width="26%" align="left" alt="Build photo 1"></a><a href="image-24.png"><img src="image-24.png" width="23%" align="left" alt="CNC carving a Totoro design"></a><a href="image-14.png"><img src="image-14.png" width="23%" align="left" alt="Build photo 2"></a><a href="image-16.png"><img src="image-16.png" width="23%" align="left" alt="Build photo 3"></a>
+  <a href="image-18.png"><img src="image-18.png" width="34.56%" align="left" alt="CNC router setup"></a><a href="image-24.png"><img src="image-24.png" width="30.71%" align="left" alt="CNC carving a Totoro design"></a><a href="image-27.png"><img src="image-27.png" width="30.73%" align="left" alt="CNC control electronics and power supply"></a>
   <br clear="all">
-  <a href="image-17.png"><img src="image-17.png" width="32%" align="left" alt="Build photo 4"></a><a href="image-12.png"><img src="image-12.png" width="32%" align="left" alt="Build photo 5"></a><a href="image-13.png"><img src="image-13.png" width="32%" align="left" alt="Build photo 6"></a>
+  <a href="image-32.png"><img src="image-32.png" width="38.40%" align="left" alt="Printers in the workshop"></a><a href="image-14.png"><img src="image-14.png" width="28.81%" align="left" alt="Printer build photo"></a><a href="image-16.png"><img src="image-16.png" width="28.79%" align="left" alt="Printer build photo"></a>
   <br clear="all">
-  <a href="image-15.png"><img src="image-15.png" width="32%" align="left" alt="Build photo 7"></a><a href="image-25.png"><img src="image-25.png" width="32%" align="left" alt="Printer toolhead close-up"></a><a href="image-26.png"><img src="image-26.png" width="32%" align="left" alt="Printer running a test print"></a>
+  <a href="image-17.png"><img src="image-17.png" width="31.99%" align="left" alt="Open-frame printer"></a><a href="image-12.png"><img src="image-12.png" width="32.03%" align="left" alt="Compact printer with purple toolhead"></a><a href="image-13.png"><img src="image-13.png" width="31.98%" align="left" alt="Enclosed compact printer"></a>
+  <br clear="all">
+  <a href="image-15.png"><img src="image-15.png" width="24.00%" align="left" alt="Printer with aluminum extrusion frame"></a><a href="image-25.png"><img src="image-25.png" width="24.00%" align="left" alt="Printer toolhead close-up"></a><a href="image-26.png"><img src="image-26.png" width="24.00%" align="left" alt="Printer running a test print"></a><a href="image-31.png"><img src="image-31.png" width="24.00%" align="left" alt="Printer control electronics and cooling"></a>
+  <br clear="all">
+  <a href="image-28.png"><img src="image-28.png" width="23.27%" align="left" alt="Motion platform control electronics"></a><a href="image-29.png"><img src="image-29.png" width="23.27%" align="left" alt="Rotating build platform mechanism"></a><a href="image-30.png"><img src="image-30.png" width="23.27%" align="left" alt="Motion platform assembly on linear rails"></a><a href="image-33.png"><img src="image-33.png" width="26.19%" align="left" alt="Motion platform and controller on the workbench"></a>
   <br clear="all">
 </p>
 
