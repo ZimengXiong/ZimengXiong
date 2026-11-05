@@ -27,6 +27,8 @@ it turns out [these arms](https://www.seeedstudio.com/reBot-Arm-B601-RS-Assemble
   <a href="videos/robot-arm-demo.mp4"><img src="images/robot-arm-demo-preview.webp" width="36%" align="top" alt="Robot arm demo; click for the full video"></a> <a href="videos/quadruped-robot-demo.mp4"><img src="images/quadruped-robot-demo-preview.webp" width="36%" align="top" alt="Quadruped robot demo; click for the full video"></a>
 </p>
 
+https://github.com/user-attachments/assets/9821cf4f-b350-4f00-87b8-2798955ba46a
+
 </details>
 
 <details>
