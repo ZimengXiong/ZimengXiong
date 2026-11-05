@@ -8,13 +8,12 @@ I really really like 3D printing<sub>1</sub>, anything electronic<sub>2</sub>, s
 ## my favorite things that I {have, am, want} {worked, working, to work} on
 
 <details>
-<summary><strong>Dual robot arm non-planar 3D printing</strong></summary>
+<summary>Dual robot arm non-planar 3D printing</summary>
 
 it turns out [these arms](https://www.seeedstudio.com/reBot-Arm-B601-RS-Assembled-Kit-with-Gripper-p-6865.html) are pretty bad for tracking accuracy. so i am looking into switching to this [unitree arm](https://shop.unitree.com/products/unitree-bionic-7-axis-dexterous-robotic-arm?variant=51885386760425) (also cheaper!)
 
 <p>
-  <a href="images/dual-arm-printer.webp"><img src="images/dual-arm-printer.webp" width="90%" align="left" alt="Dual robot arm printing setup"></a><a href="images/nonplanar-benchmark-perspective.webp"><img src="images/nonplanar-benchmark-perspective.webp" width="43%" align="left" alt="Custom non-planar benchmark, three-quarter view"></a><a href="images/nonplanar-benchmark-side.webp"><img src="images/nonplanar-benchmark-side.webp" width="47%" align="left" alt="Custom non-planar benchmark, side view"></a>
-  <br clear="all">
+  <a href="images/dual-arm-printer-collage.webp"><img src="images/dual-arm-printer-collage.webp" width="90%" alt="Dual robot arm printing setup above two views of the non-planar benchmark"></a>
 </p>
 
 (bottom: a benchy-derived test object I designed for measuring non-planar capabilities)
@@ -22,7 +21,7 @@ it turns out [these arms](https://www.seeedstudio.com/reBot-Arm-B601-RS-Assemble
 </details>
 
 <details>
-<summary><strong>Robots!!</strong></summary>
+<summary>Robots!!</summary>
 
 <p>
   <a href="videos/robot-arm-demo.mp4"><img src="images/robot-arm-demo-preview.webp" width="36%" align="top" alt="Robot arm demo; click for the full video"></a> <a href="videos/quadruped-robot-demo.mp4"><img src="images/quadruped-robot-demo-preview.webp" width="36%" align="top" alt="Quadruped robot demo; click for the full video"></a>
@@ -31,8 +30,7 @@ it turns out [these arms](https://www.seeedstudio.com/reBot-Arm-B601-RS-Assemble
 </details>
 
 <details>
-<summary><strong><a href="https://pancake.cooking/">PancakeSlicer</a>: self-hostable non-planar slicing for 3-axis, 5-axis, 6/7 (haha) DOF robot arms.
-</strong></summary>
+<summary>PancakeSlicer: self-hostable non-planar slicing for 3-axis, 5-axis, 6/7 (haha) DOF robot arms. <a href="https://pancake.cooking/">[link]</a></summary>
 some cool highlights
 
 1. slice from any browser (phone, ipad, anything)
@@ -52,7 +50,7 @@ some cool highlights
 </details>
 
 <details>
-<summary><strong><a href="https://winmux.dev/">WinMux</a>: the bestest window manager ever</strong></summary>
+<summary>WinMux: the bestest window manager ever <a href="https://winmux.dev/">[link]</a></summary>
 self explanatory, but
 
 1. we have sidebars
@@ -65,29 +63,29 @@ self explanatory, but
 </details>
 
 <details>
-<summary><strong>A story in three acts</strong></summary>
+<summary>A story in three acts</summary>
 
 <p>
   <a href="images/macbook-storage-1tb.webp"><img src="images/macbook-storage-1tb.webp" width="49%" alt="Macintosh HD with 1 TB of storage"></a><br>
-  <a href="images/macbook-storage-chip-replacement.webp"><img src="images/macbook-storage-chip-replacement.webp" width="49%" alt="Storage chip replacement"></a><br>
+  <a href="videos/macbook-storage-chip-replacement.mp4"><img src="images/macbook-storage-chip-replacement-preview.webp" width="49%" alt="Storage chip replacement video; click for the full video"></a><br>
   <a href="images/macbook-storage-8tb.webp"><img src="images/macbook-storage-8tb.webp" width="49%" alt="Macintosh HD with 8 TB of storage"></a>
 </p>
 
 </details>
 
 <details>
-<summary><strong>Printers &amp (one) <a href="https://github.com/ZimengXiong/ScrapNC/">CNC</a> I have designed/assembeled and built over the years</strong></summary>
+<summary>Printers &amp (one) <a href="https://github.com/ZimengXiong/ScrapNC/">CNC</a> I have designed/assembeled and built over the years</summary>
 <p>
-  <a href="images/scrapnc-router.webp"><img src="images/scrapnc-router.webp" width="34.56%" align="left" alt="CNC router setup"></a><a href="images/scrapnc-totoro-carving.webp"><img src="images/scrapnc-totoro-carving.webp" width="30.71%" align="left" alt="CNC carving a Totoro design"></a><a href="images/scrapnc-electronics.webp"><img src="images/scrapnc-electronics.webp" width="30.73%" align="left" alt="CNC control electronics and power supply"></a>
-  <br clear="all">
-  <a href="images/workshop-overview.webp"><img src="images/workshop-overview.webp" width="38.40%" align="left" alt="Printers in the workshop"></a><a href="images/nonplanar-printer-prototype.webp"><img src="images/nonplanar-printer-prototype.webp" width="28.81%" align="left" alt="Printer build photo"></a><a href="images/workshop-printers.webp"><img src="images/workshop-printers.webp" width="28.79%" align="left" alt="Printer build photo"></a>
-  <br clear="all">
-  <a href="images/open-frame-printer.webp"><img src="images/open-frame-printer.webp" width="31.99%" align="left" alt="Open-frame printer"></a><a href="images/compact-printer-purple-toolhead.webp"><img src="images/compact-printer-purple-toolhead.webp" width="32.03%" align="left" alt="Compact printer with purple toolhead"></a><a href="images/enclosed-compact-printer.webp"><img src="images/enclosed-compact-printer.webp" width="31.98%" align="left" alt="Enclosed compact printer"></a>
-  <br clear="all">
-  <a href="images/aluminum-frame-printer.webp"><img src="images/aluminum-frame-printer.webp" width="24.00%" align="left" alt="Printer with aluminum extrusion frame"></a><a href="images/printer-toolhead-closeup.webp"><img src="images/printer-toolhead-closeup.webp" width="24.00%" align="left" alt="Printer toolhead close-up"></a><a href="images/printer-test-print.webp"><img src="images/printer-test-print.webp" width="24.00%" align="left" alt="Printer running a test print"></a><a href="images/printer-electronics.webp"><img src="images/printer-electronics.webp" width="24.00%" align="left" alt="Printer control electronics and cooling"></a>
-  <br clear="all">
-  <a href="images/motion-platform-electronics.webp"><img src="images/motion-platform-electronics.webp" width="23.27%" align="left" alt="Motion platform control electronics"></a><a href="images/rotating-build-platform.webp"><img src="images/rotating-build-platform.webp" width="23.27%" align="left" alt="Rotating build platform mechanism"></a><a href="images/motion-platform-assembly.webp"><img src="images/motion-platform-assembly.webp" width="23.27%" align="left" alt="Motion platform assembly on linear rails"></a><a href="images/motion-platform-workbench.webp"><img src="images/motion-platform-workbench.webp" width="26.19%" align="left" alt="Motion platform and controller on the workbench"></a>
-  <br clear="all">
+  <a href="images/printers-and-cnc-collage.webp"><img src="images/printers-and-cnc-collage.webp" width="100%" alt="Seventeen photos of CNC builds, printers, electronics, and motion platforms arranged in five rows"></a>
+</p>
+
+</details>
+
+<details>
+<summary>some art</summary>
+
+<p>
+  <a href="images/art-collage.webp"><img src="images/art-collage.webp" width="100%" alt="Eight art pieces arranged in a collage"></a>
 </p>
 
 </details>
