@@ -5,7 +5,7 @@ I really really like 3D printing<sub>1</sub>, anything electronic<sub>2</sub>, s
 <sub>**3.** I particularly enjoy satisfying web design and the thrill of opening a link to *.alpacawebservices.com, where most of my self hosted services live</sub><br>
 <sub>**4.** Currently, that is FOC & training robots with MuJoCo</sub>
 
-## my favorite things that I {have, am, want} {worked, working, to work} on
+my favorite things that I {have, am, want} {worked, working, to work} on
 
 <details>
 <summary>Dual robot arm non-planar 3D printing</summary>
@@ -31,6 +31,7 @@ it turns out [these arms](https://www.seeedstudio.com/reBot-Arm-B601-RS-Assemble
 
 <details>
 <summary>PancakeSlicer: self-hostable non-planar slicing for 3-axis, 5-axis, 6/7 (haha) DOF robot arms. <a href="https://pancake.cooking/">[link]</a></summary>
+
 some cool highlights
 
 1. slice from any browser (phone, ipad, anything)
@@ -51,9 +52,10 @@ some cool highlights
 
 <details>
 <summary>WinMux: the bestest window manager ever <a href="https://winmux.dev/">[link]</a></summary>
+
 self explanatory, but
 
-1. we have sidebars
+1. we have [sidebars](https://www.winmux.dev/drag-and-drop.mp4)
 2. we have ["window tabs"](https://www.winmux.dev/tab-groups.mp4) where you can stack multiple windows on top of each other and tab between them as if they are browser tabs
 3. we have [double sided windows](https://www.reddit.com/r/MacOS/comments/1wed10s/double_sided_windows_in_winmux_054/) (yes, literally)
 4. we have sidebars
@@ -67,7 +69,7 @@ self explanatory, but
 
 <p>
   <a href="images/macbook-storage-1tb.webp"><img src="images/macbook-storage-1tb.webp" width="49%" alt="Macintosh HD with 1 TB of storage"></a><br>
-  <a href="videos/macbook-storage-chip-replacement.mp4"><img src="images/macbook-storage-chip-replacement-preview.webp" width="49%" alt="Storage chip replacement video; click for the full video"></a><br>
+  <a href="videos/macbook-storage-chip-replacement-sdr.mp4"><img src="images/macbook-storage-chip-replacement-sdr-preview.webp" loading="lazy" width="49%" alt="Storage chip replacement video; click for the full video"></a><br>
   <a href="images/macbook-storage-8tb.webp"><img src="images/macbook-storage-8tb.webp" width="49%" alt="Macintosh HD with 8 TB of storage"></a>
 </p>
 
@@ -82,7 +84,7 @@ self explanatory, but
 </details>
 
 <details>
-<summary>some art</summary>
+<summary>Some art</summary>
 
 <p>
   <a href="images/art-collage.webp"><img src="images/art-collage.webp" width="100%" alt="Eight art pieces arranged in a collage"></a>
