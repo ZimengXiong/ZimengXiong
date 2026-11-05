@@ -33,8 +33,12 @@ some cool highlights
 4. has the best profile management solution of any slicer in existence (IMO). iykyk no more having fifty slightly different `0.20mm STANDARD @BBL A1 mini 0.4mm` and whatnot. we use dynamic profiles -> auto-configure based on layer height and printer settings, so we only store the actual things you want in a profile (infill type, support, perimeter counts). this means you can use a profile, for the first time, *across* printers.
 5. because it's built on web standards, things behave normally instead of on the (legendary, but really it's time to retire from) `wxWidgets` GUI framework. you know how copy pasting and even things like text selection don't work consistently? and how menus lag to open? yeah, that's all fixed now it's all the oh so beautiful web. i ❤️ web standards. and yes don't come at me it's built with electron (go look at webkit (safari) graphics performance and then come tell me you wouldn't do the same)
 
-![](image-1.png)
-(planar slicing on the left, non planar on the right, you can see the difference in mean surface error)
+<p>
+  <a href="image-1.png"><img src="image-1.png" width="80%" align="left" alt="PancakeSlicer desktop comparison of planar and non-planar slicing"></a><a href="image-23.png"><img src="image-23.png" width="20%" align="left" alt="PancakeSlicer running on a phone"></a>
+  <br clear="all">
+</p>
+
+(in the main screenshot: planar slicing on the left, non planar on the right, you can see the difference in mean surface error)
 
 </details>
 
