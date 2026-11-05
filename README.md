@@ -14,12 +14,9 @@ You can find my contact information under my profile. I work to maintain my 6-ho
 
 it turns out [these arms](https://www.seeedstudio.com/reBot-Arm-B601-RS-Assembled-Kit-with-Gripper-p-6865.html) are pretty bad for tracking accuracy. so i am looking into switching to this [unitree arm](https://shop.unitree.com/products/unitree-bionic-7-axis-dexterous-robotic-arm?variant=51885386760425) (also cheaper!)
 
-<p align="center">
-  <a href="image-22.png"><img src="image-22.png" width="90%" alt="Dual robot arm printing setup"></a>
-</p>
-<p align="center">
-  <a href="image-20.png"><img src="image-20.png" width="43%" alt="Custom non-planar benchmark, three-quarter view"></a>
-  <a href="image-21.png"><img src="image-21.png" width="47%" alt="Custom non-planar benchmark, side view"></a>
+<p>
+  <a href="image-22.png"><img src="image-22.png" width="90%" align="left" alt="Dual robot arm printing setup"></a><a href="image-20.png"><img src="image-20.png" width="43%" align="left" alt="Custom non-planar benchmark, three-quarter view"></a><a href="image-21.png"><img src="image-21.png" width="47%" align="left" alt="Custom non-planar benchmark, side view"></a>
+  <br clear="all">
 </p>
 
 (my custom benchy-derived test object for measuring non-planar capabilities)
