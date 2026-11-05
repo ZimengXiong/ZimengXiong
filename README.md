@@ -58,9 +58,9 @@ self explanatory, but:
 <summary><strong>A story in three acts</strong></summary>
 
 <p>
-  <a href="image-19.png"><img src="image-19.png" width="23%" align="right" alt="Storage chip replacement"></a>
-  <a href="image-10.png"><img src="image-10.png" width="75%" alt="Macintosh HD with 1 TB of storage"></a><br>
-  <a href="image-9.png"><img src="image-9.png" width="75%" alt="Macintosh HD with 8 TB of storage"></a>
+  <a href="image-6.png"><img src="image-6.png" width="49%" align="right" alt="Storage chip replacement"></a>
+  <a href="image-10.png"><img src="image-10.png" width="49%" alt="Macintosh HD with 1 TB of storage"></a><br>
+  <a href="image-9.png"><img src="image-9.png" width="49%" alt="Macintosh HD with 8 TB of storage"></a>
   <br clear="all">
 </p>
 
