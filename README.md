@@ -68,10 +68,9 @@ self explanatory, but
 <summary><strong>A story in three acts</strong></summary>
 
 <p>
-  <a href="images/macbook-storage-chip-replacement.webp"><img src="images/macbook-storage-chip-replacement.webp" width="49%" align="right" alt="Storage chip replacement"></a>
   <a href="images/macbook-storage-1tb.webp"><img src="images/macbook-storage-1tb.webp" width="49%" alt="Macintosh HD with 1 TB of storage"></a><br>
+  <a href="images/macbook-storage-chip-replacement.webp"><img src="images/macbook-storage-chip-replacement.webp" width="49%" alt="Storage chip replacement"></a><br>
   <a href="images/macbook-storage-8tb.webp"><img src="images/macbook-storage-8tb.webp" width="49%" alt="Macintosh HD with 8 TB of storage"></a>
-  <br clear="all">
 </p>
 
 </details>
