@@ -5,7 +5,7 @@ I really really like 3D printing<sub>1</sub>, anything electronic<sub>2</sub>, s
 <sub>**3.** I particularly enjoy satisfying web design and the thrill of opening a link to *.alpacawebservices.com, where most of my self hosted services live</sub><br>
 <sub>**4.** Currently, that is FOC & training robots with MuJoCo</sub>
 
-my favorite things that I {have, am, want} {worked, working, to work} on
+### my favorite things that I {have, am, want} {worked, working, to work} on
 
 <details>
 <summary>Dual robot arm non-planar 3D printing</summary>
