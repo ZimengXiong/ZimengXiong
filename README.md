@@ -74,7 +74,9 @@ Some printers and one CNC I have designed/assembled & built over the years.
 <p>
   <a href="image-18.png"><img src="image-18.png" width="26%" align="left" alt="Build photo 1"></a><a href="image-24.png"><img src="image-24.png" width="23%" align="left" alt="CNC carving a Totoro design"></a><a href="image-14.png"><img src="image-14.png" width="23%" align="left" alt="Build photo 2"></a><a href="image-16.png"><img src="image-16.png" width="23%" align="left" alt="Build photo 3"></a>
   <br clear="all">
-  <a href="image-17.png"><img src="image-17.png" width="24%" align="left" alt="Build photo 4"></a><a href="image-12.png"><img src="image-12.png" width="24%" align="left" alt="Build photo 5"></a><a href="image-13.png"><img src="image-13.png" width="24%" align="left" alt="Build photo 6"></a><a href="image-15.png"><img src="image-15.png" width="24%" align="left" alt="Build photo 7"></a>
+  <a href="image-17.png"><img src="image-17.png" width="32%" align="left" alt="Build photo 4"></a><a href="image-12.png"><img src="image-12.png" width="32%" align="left" alt="Build photo 5"></a><a href="image-13.png"><img src="image-13.png" width="32%" align="left" alt="Build photo 6"></a>
+  <br clear="all">
+  <a href="image-15.png"><img src="image-15.png" width="32%" align="left" alt="Build photo 7"></a><a href="image-25.png"><img src="image-25.png" width="32%" align="left" alt="Printer toolhead close-up"></a><a href="image-26.png"><img src="image-26.png" width="32%" align="left" alt="Printer running a test print"></a>
   <br clear="all">
 </p>
 
