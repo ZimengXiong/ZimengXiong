@@ -1,11 +1,9 @@
-I really really like 3D printing<sub>1</sub>, anything electronic<sub>2</sub>, self-hosting<sub>3</sub>, and, depending on the month, a type of robotics<sub>4</sub>.
+I really really like 3D printing<sub>1</sub>, anything electronic<sub>2</sub>, self-hosting<sub>3</sub>, and, depending on the month, a type of robotics<sub>4</sub>. I also work very hard to maintain my 6-hour P99 SLA on e-mail :)
 
 <sub>**1.** Until it is "solved," my biggest dream is to help bring in a non-planar revolution (we can't let slicers stagnate!!)</sub><br>
 <sub>**2.** That is, microcontrollers, inverse kinematics, motion controllers, hardware hacking, machine learning (sorry for the buzzword), FPGA & ASIC design, algorithms, and probably a lot of things I'm forgetting. I also really enjoy working out and whiteboarding state machines</sub><br>
 <sub>**3.** I particularly enjoy satisfying web design and the thrill of opening a link to *.alpacawebservices.com, where most of my self hosted services live</sub><br>
 <sub>**4.** Currently, that is FOC & training robots with MuJoCo</sub>
-
-You can find my contact information under my profile. I very work to maintain my 6-hour P99 SLA on e-mail :)
 
 ## my favorite things that I {have, am, want} {worked, working, to work} on
 
