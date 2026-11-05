@@ -49,9 +49,18 @@ self explanatory, but:
 <details>
 <summary><strong>A story in three acts</strong></summary>
 
-![](image-10.png)
-![](image-6.png)
-![](image-9.png)
+<p align="center">
+  <sub><strong>ACT I · 1 TB</strong></sub><br>
+  <a href="image-10.png"><img src="image-10.png" width="70%" alt="Act I: Macintosh HD with 1 TB of storage"></a>
+</p>
+<p align="center">
+  <sub><strong>ACT II · chip work</strong></sub><br>
+  <a href="image-6.png"><img src="image-6.png" width="50%" alt="Act II: working on the storage chips on the logic board"></a>
+</p>
+<p align="center">
+  <sub><strong>ACT III · 8 TB</strong></sub><br>
+  <a href="image-9.png"><img src="image-9.png" width="70%" alt="Act III: Macintosh HD with 8 TB of storage"></a>
+</p>
 
 </details>
 
