@@ -24,6 +24,15 @@ it turns out [these arms](https://www.seeedstudio.com/reBot-Arm-B601-RS-Assemble
 </details>
 
 <details>
+<summary><strong>Robots!!</strong></summary>
+
+<p>
+  <a href="videos/robot-arm-demo.mp4"><img src="images/robot-arm-demo-preview.webp" width="36%" align="top" alt="Robot arm demo; click for the full video"></a> <a href="videos/quadruped-robot-demo.mp4"><img src="images/quadruped-robot-demo-preview.webp" width="36%" align="top" alt="Quadruped robot demo; click for the full video"></a>
+</p>
+
+</details>
+
+<details>
 <summary><strong><a href="https://pancake.cooking/">PancakeSlicer</a>: self-hostable non-planar slicing for 3-axis, 5-axis, 6/7 (haha) DOF robot arms.
 </strong></summary>
 some cool highlights
