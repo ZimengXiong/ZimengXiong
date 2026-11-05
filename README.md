@@ -1,61 +1,75 @@
-<!--
-DRAFT for ZimengXiong/ZimengXiong/README.md. Not pushed.
-Keeps the printer photos from the current README (same user-attachment URLs),
-moves them below the projects, and drops the leftover GitHub template comment.
-Check: the "My desktop" screenshot is dropped; add it back if you want it.
--->
+I really really like 3D printing<sub>1</sub>, anything electronic<sub>2</sub>, self-hosting<sub>3</sub>, and, depending on the month, a type of robotics<sub>4</sub>.
 
-# Zimeng Xiong
+<sub>**1.** Until it is "solved," my biggest dream is to help bring in a non-planar revolution (we can't let slicers stagnate!!)</sub><br>
+<sub>**2.** That is, microcontrollers, inverse kinematics, motion controllers, hardware hacking, machine learning (sorry for the buzzword), FPGA & ASIC design, algorithms, and probably a lot of things I'm forgetting. I also really enjoy working out and whiteboarding state machines</sub><br>
+<sub>**3.** I particularly enjoy satisfying web design and the thrill of opening a link to *.alpacawebservices.com, where most of my self hosted services live</sub><br>
+<sub>**4.** Currently, that is FOC & training robots with MuJoCo</sub>
 
-I like to build things that move 🙂
+You can find my contact information under my profile. I work to maintain my 6-hour P99 SLA on e-mail :)
 
-7+ years designing & programming 3D printers, motion platforms, IK and hardware controllers. These days also macOS tools, 3D/ML on Apple Silicon, and self-hosted web apps.
+## things I {have, am, want} {worked, working, to work} on
 
-[zimengxiong.com](https://zimengxiong.com) · [youtube](https://www.youtube.com/@alpacaengineering) · [printables](https://www.printables.com/@zimengxiong) · [x](https://x.com/zimengxiong)
+<details>
+<summary><strong>dual robot arm · non-planar 3D printing</strong></summary>
 
-### Things people use
+it turns out [these arms](https://www.seeedstudio.com/reBot-Arm-B601-RS-Assembled-Kit-with-Gripper-p-6865.html) are pretty bad for tracking accuracy. so i am looking into switching to this [unitree arm](https://shop.unitree.com/products/unitree-bionic-7-axis-dexterous-robotic-arm?variant=51885386760425) (also cheaper!)
 
-| | |
-|---|---|
-| [**ExcaliDash**](https://github.com/ZimengXiong/ExcaliDash) | Self-hosted Excalidraw with full collaboration · [excalidash.xyz](https://excalidash.xyz) |
-| [**tinyTouch**](https://github.com/ZimengXiong/tinyTouch) | Fingerprint login and sudo for your Mac, wire(less)ly, without the $149 keyboard · [docs](https://docs.tinytouch.dev) |
-| [**WinMux**](https://github.com/ZimengXiong/winmux) | A project-based, sidebar-first window manager for macOS · [winmux.dev](https://winmux.dev) |
-| [**Modelr**](https://github.com/ZimengXiong/Modelr) | Image to 3D on your Mac |
-| [**tabbed**](https://github.com/ZimengXiong/tabbed) | Turn any window into tabs |
+![](file-540750ab323c6977b1e88b786e7ee674.png)
 
-### 3D & ML on Apple Silicon
-[Hunyuan3D-MLX](https://github.com/ZimengXiong/Hunyuan3D-MLX) (parity-verified MLX runtime) ·
-[Sam3D-Objects-MLX](https://github.com/ZimengXiong/Sam3D-Objects-MLX) (custom Metal kernels) ·
-[imageGen2Texture](https://github.com/ZimengXiong/imageGen2Texture) (texturing for the GPU poor)
+</details>
 
-### macOS & agents
-[aquarium](https://github.com/ZimengXiong/aquarium) (keep agents running in your bag) ·
-[computer-use-vm](https://github.com/ZimengXiong/computer-use-vm) ·
-[watt](https://github.com/ZimengXiong/watt) ·
-[right-click-menubar](https://github.com/ZimengXiong/right-click-menubar) ·
-[square window corners](https://github.com/ZimengXiong/MacOS-Square-Window-Corners) ·
-[swipeType](https://github.com/ZimengXiong/swipeType) + [drawSwipePredictor](https://github.com/ZimengXiong/drawSwipePredictor)
+<details>
+<summary><strong><a href="https://pancake.cooking/">PancakeSlicer</a> self-hostable non-planar slicing for 3-axis, 5-axis, 6/7 (haha) DOF robot arms.
+</strong></summary>
+some cool highlights
+1. slice from any browser (phone, ipad, anything)
+2. no need for tunneling services (bambu connect, etc) since it's self hosted and everything routes through your server
+3. no need for syncing profiles between devices since its all server side
+4. has the best profile management solution of any slicer in existence (IMO). iykyk no more having fifty slightly different `0.20mm STANDARD @BBL A1 mini 0.4mm` and whatnot. we use dynamic profiles -> auto-configure based on layer height and printer settings, so we only store the actual things you want in a profile (infill type, support, perimeter counts). this means you can use a profile, for the first time, *across* printers.
+5. because it's built on web standards, things behave normally instead of on the (legendary, but really it's time to retire from) `wxWidgets` GUI framework. you know how copy pasting and even things like text selection don't work consistently? and how menus lag to open? yeah, that's all fixed now it's all the oh so beautiful web. i ❤️ web standards. and yes don't come at me it's built with electron (go look at webkit (safari) graphics performance and then come tell me you wouldn't do the same)
 
-### Hardware & fabrication
-[bASICs VM](https://github.com/ZimengXiong/basicsvm) (zero-setup FPGA/ASIC desktop for students) ·
-[syncline](https://github.com/ZimengXiong/syncline) (non-planar G-code viewer) ·
-[scrapNC](https://www.printables.com/model/1347866-scrapnc-low-cost-cnc-router-from-3d-printer-compon) (CNC router from printer parts) ·
-[arduinoMCP](https://github.com/ZimengXiong/arduinoMCP)
+![](image-1.png)
+(planar slicing on the left, non planar on the right, you can see the difference in mean surface error)
 
----
+</details>
 
-### Machines
+<details>
+<summary><strong><a href="https://winmux.dev/">WinMux</a> · the bestest window manager ever</strong></summary>
 
-#### Self-designed, mostly printed CNC router (WIP)
-![B969258F-0DFA-42F6-8659-08830B679580_1_105_c](https://github.com/user-attachments/assets/6dcae452-4a55-4d18-8e1a-9b4135ca65e4)
+self explanatory, but:
+1. we have sidebars
+2. we have ["window tabs"](https://www.winmux.dev/tab-groups.mp4) where you can stack multiple windows on top of each other and tab between them as if they are browser tabs
+3. we have [double sided windows](https://www.reddit.com/r/MacOS/comments/1wed10s/double_sided_windows_in_winmux_054/) (yes, literally)
+4. we have sidebars
 
-#### V0.2 (~2024) and self-sourced VZ235 (~2023)
-![image](https://github.com/user-attachments/assets/f3f116e1-bd18-464b-a182-3323219606ce)
-![image](https://github.com/user-attachments/assets/4b7abaad-ef11-41d5-808f-e3c34a31d8cb)
-![image](https://github.com/user-attachments/assets/4151670b-d1ee-438f-812b-acccd3026548)
+![](image-2.png)
 
-#### V0.1, self-sourced in Shenzhen (~2023)
-![image](https://github.com/user-attachments/assets/9dbf2171-9d58-4927-a0a8-69ad21008f4f)
+</details>
 
-#### VZ330 (🥣26) (~2021) and Ender 3P (~2020)
-![image](https://github.com/user-attachments/assets/8bc0d73d-1039-462f-8dd5-c2fa139fa0a3)
+<details>
+<summary><strong>A story in three acts</strong></summary>
+
+![](image-10.png)
+![](image-6.png)
+![](image-9.png)
+
+</details>
+
+<details>
+<summary><strong>Printers &amp; <a href="https://github.com/ZimengXiong/ScrapNC/">CNC</a> · builds over the years</strong></summary>
+
+Some printers and one CNC I have designed/assembled & built over the years.
+
+<p align="center">
+  <a href="image-18.png"><img src="image-18.png" width="35%" alt="Build photo 1"></a>
+  <a href="image-14.png"><img src="image-14.png" width="31%" alt="Build photo 2"></a>
+  <a href="image-16.png"><img src="image-16.png" width="31%" alt="Build photo 3"></a>
+</p>
+<p align="center">
+  <a href="image-17.png"><img src="image-17.png" width="24%" alt="Build photo 4"></a>
+  <a href="image-12.png"><img src="image-12.png" width="24%" alt="Build photo 5"></a>
+  <a href="image-13.png"><img src="image-13.png" width="24%" alt="Build photo 6"></a>
+  <a href="image-15.png"><img src="image-15.png" width="24%" alt="Build photo 7"></a>
+</p>
+
+</details>
