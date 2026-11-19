@@ -1,4 +1,4 @@
-I really really like 3D printing<sub>1</sub>, anything electronic<sub>2</sub>, self-hosting<sub>3</sub>, and, depending on the month, a type of robotics<sub>4</sub>. I also work very hard to maintain my 6-hour P99 SLA on e-mail :)
+I really really like 3D printing<sub>1</sub>, anything electronic<sub>2</sub>, self-hosting<sub>3</sub>, and, depending on the month, a type of robotics<sub>4</sub>.
 
 <sub>**1.** Until it is "solved," my biggest dream is to help bring in a non-planar revolution (we can't let slicers stagnate!!)</sub><br>
 <sub>**2.** That is, microcontrollers, inverse kinematics, motion controllers, hardware hacking, machine learning (sorry for the buzzword), FPGA & ASIC design, algorithms, and probably a lot of things I'm forgetting. I also really enjoy working out and whiteboarding state machines</sub><br>
